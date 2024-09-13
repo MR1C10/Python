@@ -6,7 +6,6 @@ mostre o menor.
 
 x= int(input("digite um numero:"))
 y= int(input("digite um numero:"))
-z= int(input("digite um numero:"))
 if(x==y):
     print("os numeros são iguais")
 else:
