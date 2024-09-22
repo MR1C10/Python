@@ -12,4 +12,4 @@ else:
     if(x<y):
         print("o numero menor é",x)
     else:
-        print("o numero menor é",y)   
+        print("o numero menor é",y)  

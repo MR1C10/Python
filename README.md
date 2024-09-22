@@ -1,1 +1,1 @@
-# Python Lista de exercicios de logica Etec
+# Python
