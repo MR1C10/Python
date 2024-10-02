@@ -1,3 +1,8 @@
+"""
+10. Elabore um algoritmo que leia um número e mostre a tabuada do número lido
+se ele for menor que 10. 
+"""
+
 x = int(input("numero"))
 if(x<10):
     y = x * 1

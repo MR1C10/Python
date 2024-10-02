@@ -1,7 +1,6 @@
 """
 1.Desenvolva um algoritmo (fluxograma e pseudocódigo) que leia dois  números e 
 mostre o menor.
-
 """
 
 x= int(input("digite um numero:"))

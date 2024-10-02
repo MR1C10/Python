@@ -1,3 +1,8 @@
+"""
+4. Crie um algoritmo que leia três números some 5 aos seus valores e mostre os
+valores resultantes maiores que 10. 
+"""
+
 x = int(input("numuro"))
 y = int(input("numuro"))
 z = int(input("numuro"))

@@ -1,3 +1,8 @@
+"""
+7. Criando uma tabuada. Crie um algoritmo que leia um número e mostre em
+como resultado a tabuada de multiplicação do número lido. 
+"""
+
 x = int(input("digite um numero"))
 a = x * 1
 b = x * 2
