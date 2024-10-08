@@ -16,4 +16,3 @@ if(c>10):
     print("Resultado maior que dez",c)
 else:
     print("Resultado menor ou igual a dez",c)
-    

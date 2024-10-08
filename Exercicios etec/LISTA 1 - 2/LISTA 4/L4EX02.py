@@ -13,4 +13,3 @@ else:
         print("o maior numero é",x)
     else:
         print("o maior numero é",y)
-    

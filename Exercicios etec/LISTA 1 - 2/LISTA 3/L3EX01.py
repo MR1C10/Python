@@ -3,6 +3,6 @@
 mostre o seu valor, se ele for menor que cinco. 
 """
 
-x = int(input("numero"))
+x = int(input("Digite um numero"))
 if(x<5):
     print(x)

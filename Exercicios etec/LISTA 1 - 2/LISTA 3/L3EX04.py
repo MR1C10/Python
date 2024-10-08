@@ -3,13 +3,15 @@
 valores resultantes maiores que 10. 
 """
 
-x = int(input("numuro"))
-y = int(input("numuro"))
-z = int(input("numuro"))
+x = int(input("Digite um numero"))
+y = int(input("Digite um numero"))
+z = int(input("Digite um numero"))
 a = x + 5
 b = y + 5
 c = z + 5
 if(a>10):
-    if(b>10):
-        if(c>10):
-            print(a,b,c)
+    print(a)
+if(b>10):
+    print(b)
+if(c>10):
+    print(c)

@@ -5,4 +5,5 @@ e exiba o resultado.
 
 x = int(input("digite umn numero"))
 y = x - 3
-print('o numero digitado -3 é ', y)
+z = y * 2
+print(z)

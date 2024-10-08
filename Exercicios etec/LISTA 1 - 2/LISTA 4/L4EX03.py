@@ -9,4 +9,3 @@ if(x<=10):
     print("numero menor ou igual 10")
 else:
     print("numero maior que 10")
-

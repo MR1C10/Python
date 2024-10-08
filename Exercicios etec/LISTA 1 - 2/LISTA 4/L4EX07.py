@@ -21,4 +21,3 @@ else:
         print(z, x, y)
     else:
         print(z, y, x)
-        

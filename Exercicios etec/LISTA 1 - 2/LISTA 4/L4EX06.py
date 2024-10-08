@@ -9,4 +9,3 @@ if(x<y):
     print("a ordem crescente é=",x,y)
 else:
     print("a ordem crescente é=",y,x)
-    
