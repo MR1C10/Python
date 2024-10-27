@@ -4,5 +4,5 @@
 """
 
 x = int(input("digite um numero"))
-y = x - 3
+y = x + 5
 print('o número digitado +5 = ', y)
