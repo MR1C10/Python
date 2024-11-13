@@ -18,6 +18,7 @@ a=int(input("Digite um número:"))
 b=int(input("Digite um número:")
 
 def quociente_resto(m,y)
+    
     quociente = m // y  
     resto = m % y     
 
