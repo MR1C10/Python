@@ -4,7 +4,10 @@ valor na tela.
 """
 
 x=int(input("Digite um numero entre 5 e 10:"))
-while(x<=5 or x>=10):
+while(x<=5):
     print("Numero invalido! Digite um numero entre 5 e 10:")
     x=int(input("Digite um numero entre 5 e 10:"))      
+    while (x>=10):
+        print("Numero invalido! Digite um numero entre 5 e 10:")
+        x=int(input("Digite um numero entre 5 e 10:"))
 print(x)
